@@ -30,12 +30,13 @@ section{
 .sec3,.sec2,.sec1{
     position: relative;
 }
-.box1{border: 1px solid blue;
-    margin :70%;
+.box1{
     background-color: rgba(143, 91, 22, 0.712);
     position: absolute;
     top: 0px;
     right: 0%;
+    width: 60px;
+    height: 40px;
     
     text-align: center;
 }
@@ -45,8 +46,8 @@ section{
     position: absolute;
     top: 0px;
     right: 0%;
-    width: 70px;
-    height: 37px;
+    width: 60px;
+    height: 40px;
     text-align: center;
 }
 .box3{
@@ -54,8 +55,8 @@ section{
     position: absolute;
     top: 0px;
     right: 0%;
-    width: 70px;
-    height: 37px;
+    width: 60px;
+    height: 40px;
     text-align: center;
 }
 .row{
