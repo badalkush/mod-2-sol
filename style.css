@@ -33,6 +33,7 @@ section{
 .box1{
     background-color: rgba(167, 99, 11, 0.479);
     position: absolute;
+    padding:1px;
     top: 0px;
     right: 0%;
     width: 60px;
